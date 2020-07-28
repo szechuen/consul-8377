@@ -1,0 +1,12 @@
+{
+  "Node": "node1",
+  "Address": "127.0.0.1",
+  "Service": {
+    "Service": "service1"
+  },
+  "Check": {
+    "Name": "check1",
+    "Status": "passing",
+    "ServiceID": "service1"
+  }
+}
